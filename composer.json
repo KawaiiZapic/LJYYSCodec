@@ -1,0 +1,14 @@
+{
+    "name": "kawaiizapic/ljyys-codec",
+    "description": "LJYYS Codec in PHP",
+    "type": "library",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Zapic",
+            "email": "zapic233@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
